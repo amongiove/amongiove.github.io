@@ -1,11 +1,11 @@
 # Site settings
 author: Amanda Mongiove
-title: 
+title: Navigating the World of Software Engineering
 header-img: img/home-bg.png
 email: amandamongiove@gmail.com
 copyright_name: Amanda Mongiove
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Taking it one line at a time.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  amongiove
